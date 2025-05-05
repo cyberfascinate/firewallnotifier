@@ -77,12 +77,7 @@ If your change affects functionality, include unit or integration tests when app
 
 To run the app locally for testing:
 ```bash
-python app.py
-```
-
-Then navigate to:
-```
-http://localhost:5000
+sudo python3 firewallnotifier.py
 ```
 
 ---
